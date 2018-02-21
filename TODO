@@ -1,0 +1,7 @@
+Create new test cases for every problem, consider following changes and situations.
+	-Pawn double jump on starting rank , blocked and unblocked cells.
+	-Review avoidable checks on which checking piece is captured and then check is avoided.
+	
+Create a script to run all samples.
+Create a sort of common library for every problem.
+Get a nice way to document functions in the code.
